@@ -5,7 +5,7 @@
 <h2>Sobre</h2>
 <p>Fantasticos Animals Project, developed during the javaScript course at Origamid, Using javaScript to create animations for pure html and css code.</p>
 
-## Link to project test
+## Link to project test.
   https://lnkd.in/dPeMUmqs
 
 
