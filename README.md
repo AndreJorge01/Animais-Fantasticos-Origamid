@@ -1,4 +1,4 @@
-<h1>Animais-Fantasticos</h1>
+<h1>Animais-Fantasticos.</h1>
 
 ![AnimaçãoAnimais](https://user-images.githubusercontent.com/86026272/137026913-6a514a08-61e2-4a60-8178-9d4242bfd2bb.gif)
 
