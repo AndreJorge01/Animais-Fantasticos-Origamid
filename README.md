@@ -10,7 +10,7 @@
 
 
 
-### technologies used
+### technologies used.
 + HTML5
 + CSS3
 + JavaScript
