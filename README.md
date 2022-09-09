@@ -12,7 +12,7 @@
 
 ### technologies used.
 + HTML5.
-+ CSS3
++ CSS3.
 + JavaScript
 + Visual Studio Code
 
