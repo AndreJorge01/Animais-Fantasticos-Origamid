@@ -13,7 +13,7 @@
 ### technologies used.
 + HTML5.
 + CSS3.
-+ JavaScript
++ JavaScript.
 + Visual Studio Code
 
 # Start Dev Environment for VSCode
