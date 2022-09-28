@@ -14,7 +14,7 @@
 + HTML5.
 + CSS3.
 + JavaScript.
-+ Visual Studio Code
++ Visual Studio Code.
 
 # Start Dev Environment for VSCode
 + Open project folder in VSCode
